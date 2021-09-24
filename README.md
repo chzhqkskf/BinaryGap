@@ -1,2 +1,2 @@
-# BinaryGap
-Code of Codility Lesson 1 - BinaryGap
+# Codility
+Code of Codility Lessons
